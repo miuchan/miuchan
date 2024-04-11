@@ -21,7 +21,7 @@
 [![Top Langs](https://miuchans-github-readme-stats.vercel.app/api/top-langs/?username=miuchan)](https://miuchans-github-readme-stats.vercel.app/api/top-langs/?username=miuchan)
 
 ### My GitHub stats
-[![Amamiya Miu's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=miuchan)](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=miuchan)
+[![Amamiya Miu's GitHub stats](https://miuchans-github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=miuchan)](https://miuchans-github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=miuchan)
 
 
 
